@@ -1,0 +1,12 @@
+body.tema-claro {
+    background-color: white;
+    color: black;
+}
+body.tema-oscuro {
+    background-color: black;
+    color: white;
+}
+body.tema-contraste {
+    background-color: yellow;
+    color: black;
+}
